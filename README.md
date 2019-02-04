@@ -1,8 +1,14 @@
 # delphix-bashboard
 Author: Carmine Fiorillo
 
-##Prerequisites:
+## What is it
+  Is a dashboard to centralize the all Masking Engines control 
+
+**Prerequisites:**
   
-##How to use:
-  1)Download the packages
-  2)
+  
+  
+## How to use:
+  *Download the packages
+  *Unzip
+  *Configure the Engines Information
